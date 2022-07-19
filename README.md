@@ -1,1 +1,1 @@
-# twitter-snippets-perl
+This repository contains snippets I've pasted on Twitter.
